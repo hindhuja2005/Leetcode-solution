@@ -58,6 +58,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0027-remove-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 | [0050-powx-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
