@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
