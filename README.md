@@ -130,4 +130,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
