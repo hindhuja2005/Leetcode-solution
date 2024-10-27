@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
