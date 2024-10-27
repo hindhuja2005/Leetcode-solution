@@ -44,6 +44,7 @@
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 ## Linked List
 |  |
 | ------- |
