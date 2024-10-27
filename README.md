@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
