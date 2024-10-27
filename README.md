@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0205-isomorphic-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
