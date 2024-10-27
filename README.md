@@ -22,6 +22,7 @@
 | [0283-move-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 | [0287-find-the-duplicate-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -170,6 +174,7 @@
 | [0242-valid-anagram](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
