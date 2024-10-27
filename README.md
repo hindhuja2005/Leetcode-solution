@@ -9,10 +9,12 @@
 | [0027-remove-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
