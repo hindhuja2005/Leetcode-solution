@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
