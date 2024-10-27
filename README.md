@@ -80,6 +80,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 ## String Matching
 |  |
 | ------- |
@@ -150,4 +151,12 @@
 | [0178-rank-scores](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
