@@ -23,6 +23,7 @@
 | [0041-first-missing-positive](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
