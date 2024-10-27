@@ -17,6 +17,7 @@
 | [0137-single-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0137-single-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
