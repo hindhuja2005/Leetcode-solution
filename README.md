@@ -24,6 +24,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
