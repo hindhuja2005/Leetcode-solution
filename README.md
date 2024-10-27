@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
