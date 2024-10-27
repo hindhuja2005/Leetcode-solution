@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
