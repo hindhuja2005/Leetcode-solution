@@ -131,4 +131,5 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0178-rank-scores) |
+| [0182-duplicate-emails](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
