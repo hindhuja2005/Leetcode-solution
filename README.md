@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -82,4 +83,16 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
