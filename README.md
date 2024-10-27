@@ -32,6 +32,7 @@
 | [0009-palindrome-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0020-valid-parentheses](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -60,4 +62,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
