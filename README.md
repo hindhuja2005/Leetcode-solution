@@ -110,6 +110,7 @@
 | [0344-reverse-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0742-to-lower-case) |
 ## Stack
 |  |
 | ------- |
