@@ -34,6 +34,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
