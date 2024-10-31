@@ -75,6 +75,7 @@
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Database
 |  |
 | ------- |
