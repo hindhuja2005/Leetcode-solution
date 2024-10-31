@@ -26,6 +26,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0645-set-mismatch) |
+| [0890-lemonade-change](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,4 +238,5 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0670-maximum-swap) |
+| [0890-lemonade-change](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
