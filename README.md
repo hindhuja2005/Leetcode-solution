@@ -31,6 +31,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1217-relative-sort-array) |
+| [1293-three-consecutive-odds](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
