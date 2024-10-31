@@ -32,6 +32,7 @@
 | [1137-height-checker](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
+| [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0670-maximum-swap](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 ## Linked List
 |  |
 | ------- |
@@ -268,4 +270,8 @@
 | ------- |
 | [1137-height-checker](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1217-relative-sort-array) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
