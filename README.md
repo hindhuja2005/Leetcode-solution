@@ -76,6 +76,7 @@
 | [0231-power-of-two](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -229,4 +230,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
