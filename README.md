@@ -71,6 +71,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [1304-longest-happy-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1304-longest-happy-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 ## Database
 |  |
 | ------- |
