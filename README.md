@@ -121,6 +121,7 @@
 | [0742-to-lower-case](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1205-defanging-an-ip-address](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 ## Stack
 |  |
 | ------- |
