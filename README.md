@@ -44,6 +44,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1791-richest-customer-wealth) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## String Matching
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Matrix
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
 | ------- |
