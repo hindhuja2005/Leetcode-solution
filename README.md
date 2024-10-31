@@ -223,6 +223,7 @@
 | [0595-big-countries](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0620-not-boring-movies) |
+| [1153-product-sales-analysis-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1153-product-sales-analysis-i) |
 ## Design
 |  |
 | ------- |
