@@ -255,6 +255,7 @@
 | [3541-report-spam-message](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3541-report-spam-message) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3617-find-the-original-typed-string-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
