@@ -69,6 +69,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3324-split-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3324-split-the-array) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
