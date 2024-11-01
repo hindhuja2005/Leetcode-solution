@@ -83,6 +83,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3582-find-indices-of-stable-mountains](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
