@@ -72,6 +72,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1791-richest-customer-wealth) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Tree
 |  |
 | ------- |
