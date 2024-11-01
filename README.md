@@ -82,6 +82,7 @@
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3533-snake-in-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3533-snake-in-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -448,6 +451,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
