@@ -86,6 +86,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3582-find-indices-of-stable-mountains) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Linked List
 |  |
@@ -421,6 +423,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
