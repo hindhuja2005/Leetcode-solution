@@ -76,6 +76,7 @@
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2571-find-the-pivot-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Linked List
 |  |
 | ------- |
