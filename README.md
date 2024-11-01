@@ -111,6 +111,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3324-split-the-array) |
+| [3412-permutation-difference-between-two-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [3194-find-words-containing-character](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
 |  |
 | ------- |
