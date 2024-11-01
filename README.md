@@ -254,6 +254,7 @@
 | [3533-snake-in-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3533-snake-in-matrix) |
 | [3541-report-spam-message](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3541-report-spam-message) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Stack
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Matrix
 |  |
 | ------- |
