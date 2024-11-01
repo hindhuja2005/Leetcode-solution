@@ -71,6 +71,7 @@
 | [3324-split-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
