@@ -80,6 +80,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -467,6 +468,7 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Game Theory
 |  |
 | ------- |
