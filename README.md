@@ -128,6 +128,7 @@
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
