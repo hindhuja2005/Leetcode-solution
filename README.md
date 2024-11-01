@@ -122,6 +122,7 @@
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3412-permutation-difference-between-two-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Database
 |  |
 | ------- |
