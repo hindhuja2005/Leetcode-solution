@@ -65,6 +65,7 @@
 | [2756-buy-two-chocolates](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2756-buy-two-chocolates) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3194-find-words-containing-character](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2727-number-of-senior-citizens](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
+| [3194-find-words-containing-character](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
