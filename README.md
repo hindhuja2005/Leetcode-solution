@@ -175,6 +175,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
+| [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2727-number-of-senior-citizens](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
+| [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [2756-buy-two-chocolates](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 ## Counting Sort
 |  |
 | ------- |
