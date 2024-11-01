@@ -168,6 +168,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
@@ -243,6 +244,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3533-snake-in-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3533-snake-in-matrix) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
 |  |
 | ------- |
