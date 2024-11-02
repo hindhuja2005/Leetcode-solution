@@ -246,6 +246,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2580-circular-sentence](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3194-find-words-containing-character) |
