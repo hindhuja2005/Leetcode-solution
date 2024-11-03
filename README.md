@@ -230,6 +230,7 @@
 | [0389-find-the-difference](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0812-rotate-string) |
 ## Recursion
 |  |
 | ------- |
