@@ -250,6 +250,7 @@
 | [2580-circular-sentence](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3379-score-of-a-string) |
