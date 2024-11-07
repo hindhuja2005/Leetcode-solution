@@ -55,6 +55,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
@@ -121,6 +122,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
@@ -301,6 +303,7 @@
 | [0389-find-the-difference](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -397,6 +400,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3324-split-the-array) |
