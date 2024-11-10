@@ -75,6 +75,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -307,6 +308,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3394-minimum-array-end) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -504,6 +506,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Game Theory
