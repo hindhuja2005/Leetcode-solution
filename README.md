@@ -63,6 +63,7 @@
 | [2561-number-of-distinct-averages](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2561-number-of-distinct-averages) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
+| [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2756-buy-two-chocolates) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -152,6 +153,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
+| [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2571-find-the-pivot-integer) |
+| [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -440,6 +443,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
+| [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Dynamic Programming
 |  |
@@ -463,6 +467,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
