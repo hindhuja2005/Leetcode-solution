@@ -64,6 +64,7 @@
 | [2561-number-of-distinct-averages](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2561-number-of-distinct-averages) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2756-buy-two-chocolates) |
@@ -155,6 +156,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
@@ -224,6 +226,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -393,6 +396,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2561-number-of-distinct-averages) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2756-buy-two-chocolates) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
