@@ -53,6 +53,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -155,6 +156,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
