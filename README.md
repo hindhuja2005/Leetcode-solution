@@ -97,6 +97,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3533-snake-in-matrix) |
 | [3541-report-spam-message](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3541-report-spam-message) |
@@ -399,6 +400,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0100-same-tree) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -575,4 +577,5 @@
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
