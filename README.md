@@ -29,6 +29,7 @@
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1137-height-checker) |
@@ -129,6 +130,7 @@
 | [0645-set-mismatch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1217-relative-sort-array) |
@@ -267,6 +269,7 @@
 | [0782-jewels-and-stones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1302-delete-characters-to-make-fancy-string) |
