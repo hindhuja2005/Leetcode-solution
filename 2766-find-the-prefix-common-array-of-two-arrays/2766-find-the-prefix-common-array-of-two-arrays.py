@@ -1,7 +1,8 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
         res=[]
-        for i in range(len(A)):
+        n=len(A)
+        for i in range(n):
             count=0
             for j in range(i+1):
                 if A[j] in B[:i+1]:
