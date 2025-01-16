@@ -123,6 +123,7 @@
 | [0205-isomorphic-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -202,6 +203,7 @@
 | [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
@@ -502,6 +504,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
@@ -544,6 +547,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
