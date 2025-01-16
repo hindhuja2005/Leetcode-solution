@@ -70,6 +70,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2561-number-of-distinct-averages) |
@@ -344,6 +345,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -592,4 +594,8 @@
 | ------- |
 | [3189-find-champion-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
