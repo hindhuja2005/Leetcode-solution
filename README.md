@@ -53,6 +53,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1972-rotating-the-box) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
