@@ -96,6 +96,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
