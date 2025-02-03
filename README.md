@@ -404,6 +404,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -413,6 +414,7 @@
 | [0110-balanced-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,11 +425,13 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
