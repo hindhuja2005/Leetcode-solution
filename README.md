@@ -296,6 +296,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -329,6 +330,7 @@
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
@@ -373,6 +375,7 @@
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
