@@ -49,6 +49,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1755-defuse-the-bomb) |
@@ -292,6 +293,7 @@
 | [1205-defanging-an-ip-address](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1304-longest-happy-string) |
+| [1651-shuffle-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
