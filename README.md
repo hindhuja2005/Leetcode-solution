@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
@@ -206,6 +207,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
@@ -277,6 +279,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0058-length-of-last-word) |
