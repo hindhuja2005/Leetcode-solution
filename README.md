@@ -121,6 +121,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3582-find-indices-of-stable-mountains) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3723-sum-of-good-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3723-sum-of-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
