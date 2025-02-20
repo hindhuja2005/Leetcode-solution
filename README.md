@@ -65,6 +65,7 @@
 | [2048-build-array-from-permutation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -161,6 +162,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -318,6 +320,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -627,6 +630,7 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
