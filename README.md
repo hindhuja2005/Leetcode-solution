@@ -33,6 +33,7 @@
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -150,6 +151,7 @@
 | [0645-set-mismatch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -211,6 +213,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -448,6 +451,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -469,6 +473,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
