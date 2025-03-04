@@ -242,6 +242,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2571-find-the-pivot-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2571-find-the-pivot-integer) |
 | [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
