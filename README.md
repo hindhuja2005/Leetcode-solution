@@ -99,6 +99,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3194-find-words-containing-character](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
@@ -179,6 +180,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3227-find-missing-and-repeated-values](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3324-split-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3412-permutation-difference-between-two-strings) |
@@ -247,6 +249,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [3055-maximum-odd-binary-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3055-maximum-odd-binary-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -448,6 +451,7 @@
 | [1972-rotating-the-box](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Tree
 |  |
