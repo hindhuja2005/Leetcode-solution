@@ -189,6 +189,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -361,6 +362,7 @@
 | [3541-report-spam-message](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3541-report-spam-message) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3617-find-the-original-typed-string-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3709-find-special-substring-of-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -675,6 +677,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Game Theory
 |  |
 | ------- |
