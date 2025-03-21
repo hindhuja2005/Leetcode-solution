@@ -74,6 +74,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -349,6 +351,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -701,6 +704,7 @@
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3189-find-champion-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Brainteaser
@@ -719,4 +723,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
