@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0283-move-zeroes) |
@@ -145,6 +146,7 @@
 | [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
@@ -680,6 +682,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
