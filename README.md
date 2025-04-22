@@ -326,6 +326,7 @@
 | [0171-excel-sheet-column-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0389-find-the-difference) |
@@ -478,6 +479,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
@@ -491,6 +493,7 @@
 | [0112-path-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
@@ -504,6 +507,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Breadth-First Search
@@ -678,6 +682,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
