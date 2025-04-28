@@ -82,6 +82,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -217,6 +218,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -675,6 +677,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1940-maximum-xor-for-each-query) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2571-find-the-pivot-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2571-find-the-pivot-integer) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -698,6 +701,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1755-defuse-the-bomb) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
