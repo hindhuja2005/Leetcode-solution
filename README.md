@@ -45,6 +45,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -253,6 +254,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
