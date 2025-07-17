@@ -47,6 +47,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -219,6 +220,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -472,6 +474,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2089-maximum-matrix-sum) |
