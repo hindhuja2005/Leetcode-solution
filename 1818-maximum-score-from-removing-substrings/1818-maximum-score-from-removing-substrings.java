@@ -1,46 +1,45 @@
 class Solution {
     public int maximumGain(String s, int x, int y) {
         if (x > y) {
-            return remove(s, "ab", x, y);
+            return removePatterns(s, 'a', 'b', x, y);
         } else {
-            return remove(s, "ba", y, x);
+            return removePatterns(s, 'b', 'a', y, x);
         }
     }
 
-    private int remove(String s, String pattern1, int score1, int score2) {
-        Stack<Character> stack = new Stack<>();
-        int res = 0;
-        char first = pattern1.charAt(0), second = pattern1.charAt(1);
+    private int removePatterns(String s, char first, char second, int firstScore, int secondScore) {
+        char[] temp = new char[s.length()];
+        int top = -1;
+        int score = 0;
 
-        // First pass: remove high-value pattern
-        for (char c : s.toCharArray()) {
-            if (!stack.isEmpty() && stack.peek() == first && c == second) {
-                stack.pop();
-                res += score1;
+        // First pass: remove high-value pattern (e.g., "ab" or "ba")
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (top >= 0 && temp[top] == first && c == second) {
+                top--;
+                score += firstScore;
             } else {
-                stack.push(c);
+                temp[++top] = c;
             }
         }
 
-        // Rebuild the remaining string after first pattern removal
-        StringBuilder sb = new StringBuilder();
-        while (!stack.isEmpty()) {
-            sb.append(stack.pop());
+        // Second pass: remove the other pattern (e.g., "ba" if first was "ab")
+        char[] remaining = new char[top + 1];
+        for (int i = 0; i <= top; i++) {
+            remaining[i] = temp[i];
         }
-        String remaining = sb.reverse().toString();
 
-        // Second pass: remove the other pattern
-        stack.clear();
-        char altFirst = second, altSecond = first;
-        for (char c : remaining.toCharArray()) {
-            if (!stack.isEmpty() && stack.peek() == altFirst && c == altSecond) {
-                stack.pop();
-                res += score2;
+        top = -1;
+        for (int i = 0; i < remaining.length; i++) {
+            char c = remaining[i];
+            if (top >= 0 && temp[top] == second && c == first) {
+                top--;
+                score += secondScore;
             } else {
-                stack.push(c);
+                temp[++top] = c;
             }
         }
 
-        return res;
+        return score;
     }
 }
