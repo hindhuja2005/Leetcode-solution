@@ -38,6 +38,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0952-word-subsets) |
+| [0983-validate-stack-sequences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1137-height-checker) |
@@ -404,6 +405,7 @@
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0983-validate-stack-sequences) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -457,6 +459,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
+| [0983-validate-stack-sequences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0983-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
