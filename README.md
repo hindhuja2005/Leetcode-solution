@@ -252,6 +252,7 @@
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0202-happy-number) |
@@ -431,6 +432,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
@@ -716,6 +718,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
