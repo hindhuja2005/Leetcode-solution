@@ -11,6 +11,8 @@ class Solution {
 
                 if(z<=k || o<=k)
                 ans++;
+                else if(z>k && o>k)
+                break;
             }
         }
         return ans;
