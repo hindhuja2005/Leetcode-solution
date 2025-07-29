@@ -184,6 +184,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -369,6 +370,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
@@ -602,6 +604,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -741,6 +744,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1813-maximum-erasure-value) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
