@@ -179,6 +179,7 @@
 | [1217-relative-sort-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -365,6 +366,7 @@
 | [1205-defanging-an-ip-address](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1304-longest-happy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1651-shuffle-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -750,6 +752,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
