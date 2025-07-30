@@ -10,7 +10,8 @@ class Solution {
             for(int j=i;j<nums.length;j++){
                 s1.add(nums[j]);
                 if(s1.size()==s.size()){
-                    count++;
+                    count+=(nums.length-j);
+                    break;
                 }
             }
         }
