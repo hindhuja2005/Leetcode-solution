@@ -109,6 +109,7 @@
 | [2756-buy-two-chocolates](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -201,6 +202,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -754,6 +756,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
