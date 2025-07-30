@@ -1,19 +1,33 @@
 class Solution {
     public int countCompleteSubarrays(int[] nums) {
-        Set<Integer> s=new HashSet<>();
-        for(int i:nums){
-            s.add(i);
+        int n = nums.length;
+
+        // Count total distinct elements
+        Set<Integer> unique = new HashSet<>();
+        for (int num : nums) {
+            unique.add(num);
         }
-        int count=0;
-        for(int i=0;i<nums.length;i++){
-            Set<Integer> s1=new HashSet<>();
-            for(int j=i;j<nums.length;j++){
-                s1.add(nums[j]);
-                if(s1.size()==s.size()){
+        int totalDistinct = unique.size();
+
+        int count = 0;
+
+        // Iterate with sliding start index
+        for (int i = 0; i < n; i++) {
+            int[] freq = new int[100001]; // constraint: nums[i] <= 10^5
+            int distinct = 0;
+
+            for (int j = i; j < n; j++) {
+                if (freq[nums[j]] == 0) {
+                    distinct++;
+                }
+                freq[nums[j]]++;
+
+                if (distinct == totalDistinct) {
                     count++;
                 }
             }
         }
+
         return count;
     }
 }
