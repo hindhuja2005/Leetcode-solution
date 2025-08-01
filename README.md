@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
@@ -662,6 +663,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
