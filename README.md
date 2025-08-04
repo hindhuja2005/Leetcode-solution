@@ -38,6 +38,7 @@
 | [0890-lemonade-change](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0952-word-subsets) |
 | [0983-validate-stack-sequences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -174,6 +175,7 @@
 | [0782-jewels-and-stones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -754,6 +756,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1813-maximum-erasure-value) |
