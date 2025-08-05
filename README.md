@@ -145,6 +145,7 @@
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3723-sum-of-good-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3723-sum-of-good-numbers) |
+| [3790-fruits-into-baskets-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [2634-minimum-common-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
+| [3790-fruits-into-baskets-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -500,6 +502,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -820,4 +823,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0187-repeated-dna-sequences) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
