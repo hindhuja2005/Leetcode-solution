@@ -280,6 +280,7 @@
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
@@ -452,6 +453,7 @@
 | [0203-remove-linked-list-elements](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
