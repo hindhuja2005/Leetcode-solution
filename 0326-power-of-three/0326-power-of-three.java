@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPowerOfThree(int n) {
-        int high=n/3;
+        /*int high=n/3;
         int low=1;
         if(n==1){
             return true;
@@ -23,6 +23,11 @@ class Solution {
                 high=mid;
             }
         }
-        return false;
+        return false;*/
+        if(n<=0) return false;
+        while(n%3==0){
+            n=n/3;
+        }
+        return n==1;
     }
 }
