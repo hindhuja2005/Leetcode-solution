@@ -287,6 +287,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -716,6 +717,7 @@
 | [0890-lemonade-change](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
