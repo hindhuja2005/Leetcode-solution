@@ -556,6 +556,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -572,6 +573,7 @@
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -590,6 +592,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -600,6 +603,7 @@
 | [0112-path-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
+| [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
