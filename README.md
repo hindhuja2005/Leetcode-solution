@@ -554,6 +554,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -594,6 +595,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -882,6 +884,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
