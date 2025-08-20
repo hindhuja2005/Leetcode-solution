@@ -571,6 +571,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -591,6 +592,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -615,6 +617,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
