@@ -575,6 +575,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2384-root-equals-sum-of-children) |
@@ -598,6 +599,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -624,6 +626,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2384-root-equals-sum-of-children) |
@@ -659,6 +662,7 @@
 | [1137-height-checker](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -917,4 +921,5 @@
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
