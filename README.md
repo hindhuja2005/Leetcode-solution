@@ -141,6 +141,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3429-special-array-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -552,6 +553,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Tree
 |  |
 | ------- |
