@@ -33,6 +33,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -513,6 +514,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0983-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -542,6 +544,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
