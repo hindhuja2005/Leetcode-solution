@@ -586,6 +586,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -612,6 +613,7 @@
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -641,6 +643,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
