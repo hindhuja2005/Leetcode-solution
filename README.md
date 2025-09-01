@@ -595,6 +595,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -622,6 +623,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -652,6 +654,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -668,6 +671,7 @@
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
