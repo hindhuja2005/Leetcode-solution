@@ -581,6 +581,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -612,6 +613,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -641,6 +643,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
@@ -953,6 +956,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
