@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -169,6 +170,7 @@
 | [0012-integer-to-roman](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0141-linked-list-cycle) |
@@ -546,6 +548,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -842,6 +845,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0089-gray-code](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
