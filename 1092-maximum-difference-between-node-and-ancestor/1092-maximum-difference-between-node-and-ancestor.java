@@ -13,36 +13,9 @@
  *     }
  * }
  */
-class Solution {
+/*class Solution {
     int maxdiff=-1;
     public int maxAncestorDiff(TreeNode root) {
-        /*if(root.left!=null){
-            int diff=Math.abs(root.val-root.left.val);
-            maxdiff=Math.max(maxdiff,diff);
-            if(root.left.left!=null){
-                diff=Math.abs(root.val-root.left.left.val);
-                maxdiff=Math.max(maxdiff,diff);
-            }
-            if(root.left.right!=null){
-                diff=Math.abs(root.val-root.left.right.val);
-                maxdiff=Math.max(maxdiff,diff);
-            }
-            maxAncestorDiff(root.left);
-        }
-        if(root.right!=null){
-            int diff=Math.abs(root.val-root.right.val);
-            maxdiff=Math.max(maxdiff,diff);
-            if(root.right.left!=null){
-                diff=Math.abs(root.val-root.right.left.val);
-                maxdiff=Math.max(maxdiff,diff);
-            }
-            if(root.right.right!=null){
-                diff=Math.abs(root.val-root.right.right.val);
-                maxdiff=Math.max(maxdiff,diff);
-            }
-            maxAncestorDiff(root.right);
-        }
-        return maxdiff;*/
         if(root!=null){
             func(root.val,root);
             maxAncestorDiff(root.left);
@@ -64,5 +37,28 @@ class Solution {
         }
         func(n,root.left);
         func(n,root.right);
+    }
+}*/
+class Solution {
+    int maxdiff = 0;
+
+    public int maxAncestorDiff(TreeNode root) {
+        if (root == null) return 0;
+        dfs(root, root.val, root.val);
+        return maxdiff;
+    }
+
+    private void dfs(TreeNode node, int minVal, int maxVal) {
+        if (node == null) return;
+
+        // update max difference
+        maxdiff = Math.max(maxdiff, Math.max(Math.abs(node.val - minVal), Math.abs(node.val - maxVal)));
+
+        // update path min/max
+        minVal = Math.min(minVal, node.val);
+        maxVal = Math.max(maxVal, node.val);
+
+        dfs(node.left, minVal, maxVal);
+        dfs(node.right, minVal, maxVal);
     }
 }
