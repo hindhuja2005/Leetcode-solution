@@ -26,11 +26,11 @@ class Solution {
             return;
         }
         h++;
-        inorder(root.left,h);
         if(h>maxh){
             maxh=h;
             value=root.val;
         }
+        inorder(root.left,h);
         inorder(root.right,h);
     }
 }
