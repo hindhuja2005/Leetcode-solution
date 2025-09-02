@@ -14,23 +14,25 @@
  * }
  */
 class Solution {
-    int h=0;
-    int value=-1;
-    int maxh=Integer.MIN_VALUE;
+    int maxDepth = -1;
+    int value = -1;
+
     public int findBottomLeftValue(TreeNode root) {
-        inorder(root,h);
+        dfs(root, 0);
         return value;
     }
-    public void inorder(TreeNode root,int h){
-        if(root==null){
-            return;
+
+    private void dfs(TreeNode node, int depth) {
+        if (node == null) return;
+
+        // First time we reach this depth → record value
+        if (depth > maxDepth) {
+            maxDepth = depth;
+            value = node.val;
         }
-        h++;
-        inorder(root.left,h);
-        if(h>maxh){
-            maxh=h;
-            value=root.val;
-        }
-        inorder(root.right,h);
+
+        // Go left first, then right
+        dfs(node.left, depth + 1);
+        dfs(node.right, depth + 1);
     }
 }
