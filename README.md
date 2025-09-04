@@ -455,6 +455,7 @@
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -588,6 +589,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -619,6 +621,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -653,6 +656,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -968,6 +972,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
