@@ -57,6 +57,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -302,6 +303,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
