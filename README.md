@@ -88,6 +88,7 @@
 | [2058-concatenation-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -215,6 +216,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2107-find-unique-binary-string) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -261,6 +263,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -726,6 +729,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -810,6 +814,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2118-maximum-earnings-from-taxi) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Memoization
 |  |
