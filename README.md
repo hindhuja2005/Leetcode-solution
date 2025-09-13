@@ -244,6 +244,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -456,6 +457,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3617-find-the-original-typed-string-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3709-find-special-substring-of-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -771,6 +773,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
