@@ -37,6 +37,7 @@
 | [0498-diagonal-traverse](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0890-lemonade-change) |
@@ -282,6 +283,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Math
 |  |
@@ -469,6 +471,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0933-increasing-order-search-tree) |
@@ -602,6 +605,7 @@
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -672,6 +676,7 @@
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -938,6 +943,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
