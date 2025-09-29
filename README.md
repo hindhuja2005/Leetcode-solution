@@ -40,6 +40,7 @@
 | [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
+| [0830-largest-triangle-area](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -307,6 +308,7 @@
 | [0326-power-of-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0670-maximum-swap) |
+| [0830-largest-triangle-area](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
@@ -875,6 +877,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0830-largest-triangle-area) |
 | [1395-minimum-time-visiting-all-points](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1395-minimum-time-visiting-all-points) |
 ## Heap (Priority Queue)
 |  |
