@@ -473,6 +473,7 @@
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -606,6 +607,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -643,6 +645,7 @@
 | [0404-sum-of-left-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0538-convert-bst-to-greater-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0975-range-sum-of-bst) |
