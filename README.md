@@ -975,6 +975,7 @@
 ## Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1916-find-center-of-star-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3189-find-champion-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
