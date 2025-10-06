@@ -320,6 +320,7 @@
 | [1448-maximum-69-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -548,6 +549,7 @@
 | [0258-add-digits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0983-validate-stack-sequences) |
+| [1642-water-bottles](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
