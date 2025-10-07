@@ -301,6 +301,7 @@
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
@@ -840,6 +841,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
@@ -853,6 +855,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
