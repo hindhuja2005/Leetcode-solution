@@ -15,6 +15,7 @@
 | [0037-sudoku-solver](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
@@ -591,6 +592,7 @@
 | [0036-valid-sudoku](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -852,6 +854,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0198-house-robber) |
