@@ -3,7 +3,7 @@ class Solution {
         if(o[o.length-1][o[0].length-1]==1){
             return 0;
         }
-        int dp[][]=new int[o.length][o[0].length];
+        /*int dp[][]=new int[o.length][o[0].length];
         for(int i=0;i<o.length;i++){
             for(int j=0;j<o[0].length;j++){
                 if(i>=0 && j>=0 &&o[i][j]==1){
@@ -18,8 +18,26 @@ class Solution {
                     dp[i][j]=down+right;
                 }
             }
+        }*/
+        int dp[]=new int[o[0].length];
+        for(int i=0;i<o.length;i++){
+            int temp[]=new int[o[0].length];
+            for(int j=0;j<o[0].length;j++){
+                if(i>=0 && j>=0 &&o[i][j]==1){
+                    continue;
+                }
+                if(i==0 && j==0){
+                    temp[j]=1;
+                }
+                else {
+                    int down=(i>0)?dp[j]:0;
+                    int right=(j>0)?temp[j-1]:0;
+                    temp[j]=down+right;
+                }
+            }
+            dp=temp;
         }
-        return dp[o.length-1][o[0].length-1];
+        return dp[o[0].length-1];
        // return path(o.length-1,o[0].length-1,o,dp);
     }
    /* public int path(int i,int j,int[][] o,int dp[][]){
