@@ -302,6 +302,7 @@
 | [0012-integer-to-roman](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0069-sqrtx) |
@@ -847,6 +848,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0198-house-robber) |
@@ -1048,6 +1050,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
