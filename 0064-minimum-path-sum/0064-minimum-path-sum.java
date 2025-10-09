@@ -17,7 +17,7 @@ class Solution {
         return dp[grid.length-1][grid[0].length-1];
         //return path(grid.length-1,grid[0].length-1,grid,dp);
     }
-    public int path(int i,int j,int[][] g,int[][] dp){
+    /*public int path(int i,int j,int[][] g,int[][] dp){
         if(i==0 && j==0) return g[0][0];
         if(i<0 ||j<0){
             return Integer.MAX_VALUE;
@@ -32,5 +32,5 @@ class Solution {
         }
         dp[i][j]=Math.min(l,u);
         return dp[i][j];
-    }
+    }*/
 }
