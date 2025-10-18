@@ -174,6 +174,7 @@
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3723-sum-of-good-numbers](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3723-sum-of-good-numbers) |
 | [3790-fruits-into-baskets-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -791,6 +792,7 @@
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting
 |  |
 | ------- |
@@ -902,6 +904,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting Sort
 |  |
 | ------- |
