@@ -356,6 +356,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
@@ -482,6 +483,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3617-find-the-original-typed-string-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3709-find-special-substring-of-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -588,6 +590,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -853,6 +856,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1065,4 +1069,5 @@
 | [0062-unique-paths](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hindhuja2005/Leetcode-solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
