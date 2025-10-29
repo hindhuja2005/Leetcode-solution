@@ -356,6 +356,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3830-find-closest-person) |
 ## Linked List
@@ -560,6 +561,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
