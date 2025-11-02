@@ -428,6 +428,7 @@
 | [0344-reverse-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0394-decode-string) |
 | [0742-to-lower-case](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0812-rotate-string) |
@@ -495,6 +496,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -524,6 +526,7 @@
 | [0234-palindrome-linked-list](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/hindhuja2005/Leetcode-solution/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hindhuja2005/Leetcode-solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
