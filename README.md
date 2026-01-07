@@ -659,6 +659,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -695,6 +696,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -736,6 +738,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hindhuja2005/Leetcode-solution/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
